@@ -1,0 +1,6 @@
+![img1](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image1.jpg?raw=true)
+![img2](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image2.jpg?raw=true)
+![img3](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image3.jpg?raw=true)
+![img4](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image4.jpg?raw=true)
+![img5](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image5.jpg?raw=true)
+![img6](https://github.com/GordenWang054/memorizing-vocabulary-with-BERT/new/main/image6.jpg?raw=true)
